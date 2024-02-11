@@ -2,6 +2,7 @@ name: 'Mass in B minor: 4. Osanna, Benedictus, Agnus Dei and Dona Nobis Pacem'
 artist: J. S. Bach
 performer: Netherlands Bach Society
 art: https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88
+browseable: false
 
 include:
   - Osanna in excelsis (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-iv/main/Osanna in excelsis (Coro) 1.mp3
